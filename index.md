@@ -1,10 +1,24 @@
-## Welcome to GitHub Pages
+## Hello 👋 I'm Mark Tanios!
 
-You can use the [editor on GitHub](https://github.com/marktanios/my_resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am highly motivated, self-driven engineer interested in data engineering and big data. I'm passionate about building robust data pipelines that lay the groundwork for revealing game-changing insights.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've been working in the data field for over 4 years and I have overall experience more than 7 years.
 
-### Markdown
+## Experience:
+
+![Image](https://cdn.freelogovectors.net/wp-content/uploads/2021/08/talabatlogo-freelogovectors.net_.png) 
+### Talabat:
+Kalam Keteer
+
+### Ejada:
+Kalam Keteer
+
+### Vodafone:
+Kalam Keteer
+
+### CIB:
+Kalam Keteer
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
